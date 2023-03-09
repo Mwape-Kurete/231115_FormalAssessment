@@ -78,19 +78,62 @@ header p{
     height: 500px;
     background-color: lightgrey;
     margin: 50px;
-    border-radius: 12px;
+    border-radius: 10px;
 }
 
 .col-box2{
-    width: 80%;
-    height: 500px;
+    width: 90%;
+    height: 350px;
+    margin: 40px;
+    margin-left: 50px;
     background-color: lightgrey;
-    border-radius: 12px;
+    border-radius: 5px;
 }
+
+.col-box3{
+    width: 90%;
+    height: 550px;
+    margin: 40px;
+    margin-left: 50px;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
+
+.img-rnd{
+    width: 250px;
+    height: 250px; 
+    background-color: lightgrey;
+    border-radius: 50%;
+    margin: 0 auto; 
+    margin-top: 50px;
+}
+
 .copy{
     padding-left: 150px;
     padding-top: 150px;
     width: 50%;
+}
+
+.text-l{
+    padding-left: 70px;
+    padding-top: 10px;
+    width: 50%;
+}
+
+.text-4{
+    margin-left: 50px;
+    padding-top: 10px;
+}
+
+.text-mid{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.mid-title{
+    text-align: center;
+    margin-top: 70px;
 }
 
 .cta{
