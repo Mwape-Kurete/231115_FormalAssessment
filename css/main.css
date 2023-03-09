@@ -81,8 +81,31 @@ header p{
     border-radius: 12px;
 }
 
+.col-box2{
+    width: 80%;
+    height: 500px;
+    background-color: lightgrey;
+    border-radius: 12px;
+}
 .copy{
     padding-left: 150px;
-    padding-top: 50px;
+    padding-top: 150px;
     width: 50%;
+}
+
+.cta{
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: larger;
+    border: 3px solid rgb(17, 17, 17);
+    border-radius: 9px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+}
+
+.cta:hover{
+    background-color: rgb(28, 28, 28);
+    color: white;
+    cursor: pointer;
 }
