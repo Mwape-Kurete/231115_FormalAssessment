@@ -155,7 +155,6 @@ header p{
 
 .btn-blck{
     margin-top: 80px;
-    margin-bottom: 80px;
     margin-left: 150px;
     font-size: larger;
     background-color: rgb(17, 17, 17);
@@ -168,7 +167,6 @@ header p{
 
 .btn-blck:hover{
     margin-top: 80px;
-    margin-bottom: 80px;
     margin-left: 150px;
     border: 3px solid rgb(17, 17, 17);
     background-color: white;
